@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XZJIsme
-- 👀 I’m interested in 昊京
+- 👀 I’m interested in Nothing
 - 🌱 I’m currently learning 不是白象的我不吃
-- 💞️ I’m looking to collaborate on 将所有小贼绳之以法
+- 💞️ I’m looking to collaborate on 压缩毛巾的工艺设计与加工制造
 - 📫 How to reach me 捅了老挝
 
 <!---
