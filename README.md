@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @XZJIsme
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning those stuff relating to Graph.
+- 👀 I’m paTHEtically interested in NoTHing
+- 🌱 I’m currently learning some Graph/GNN stuff.
 - 😑 I’m looking to apply for a PhD.
-- 📫 How to reach me 捅了老挝
+- 📫 How to reach me: you won't, right?
 
 <!---
 XZJIsme/XZJIsme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
