@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XZJIsme
 - 👀 I’m paTHEtically interested in NoTHing
 - 🌱 I’m currently learning some Graph/GNN stuff.
-- 😑 I’m looking to apply for a PhD.
+- 😑 I’m looking to apply for a PhD on graph learning.
 - 📫 How to reach me: you won't, right?
 
 <!---
