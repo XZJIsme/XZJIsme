@@ -16,5 +16,7 @@ sometimes I just realize that I'm a lʊzə ... hahaha
 --->
 
 <center>
+  <div style="text-align:center;">
 <img id="me" src="https://github.com/XZJIsme/XZJIsme/assets/30148847/b53fc189-3983-480c-b57f-0fc042862e28" width="55%" style="margin:0 auto;" />
-</center>
+  </div>
+  </center>
