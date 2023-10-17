@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 sometimes I just realize that I'm a lʊzə ... hahaha
 --->
 
-<center>
+<p align="center">
   <div style="text-align:center;">
 <img id="me" src="https://github.com/XZJIsme/XZJIsme/assets/30148847/b53fc189-3983-480c-b57f-0fc042862e28" width="55%" style="margin:0 auto;" />
   </div>
-  </center>
+</p>
